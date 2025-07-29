@@ -2,7 +2,7 @@
 The visible-spectra (400 - 800 nm) of the Antarctic coralline algae T. antarcticum: Coupling hyperspectral imaging with standard pigment and DNA tools.
 
 ## Publication
-Montes-Herrera, J. C., Cimoli, E., Cummings, V. J., D’Archino, R., Nelson, W. A., Lucieer, A., & Lucieer, V. (2024). Quantifying pigment content in crustose coralline algae using hyperspectral imaging: A case study with Tethysphytum antarcticum (Ross Sea, Antarctica). Journal of Phycology, 60, 695–709. https://doi.org/10.1111/jpy.13449
+Montes-Herrera, J. C., Cimoli, E., Cummings, V. J., D’Archino, R., Nelson, W. A., Lucieer, A., & Lucieer, V. (2024). Quantifying pigment content in crustose coralline algae using hyperspectral imaging: A case study with Tethysphytum antarcticum (Ross Sea, Antarctica). *Journal of Phycology*, 60, 695–709. https://doi.org/10.1111/jpy.13449
 
 ## Description of project
 The project aimed to quantify and analyze the content of R-phycobilins in crustose coralline algae (CCA) using hyperspectral imaging combined with DNA barcoding and pigment extractions. The study focused on the Tethysphytum antarcticum species collected from two different shallow benthic locations within the Ross Sea, Antarctica. The goal was to reveal distinct R-phycoerythrin (R-PE) spatial distributions present in two site-specific CCA phenotypes, with thin and thick crusts, respectively.
